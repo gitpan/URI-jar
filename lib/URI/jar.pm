@@ -12,11 +12,11 @@ URI::jar - Java ARchive URI
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 =head1 SYNOPSIS
 
